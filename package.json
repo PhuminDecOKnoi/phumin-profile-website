@@ -1,0 +1,21 @@
+{
+  "name": "personal-profile-website",
+  "version": "1.0.0",
+  "description": "A lightweight personal profile website built with Node.js, Express, and static frontend assets.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "portfolio",
+    "express",
+    "personal-website",
+    "static-site"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
